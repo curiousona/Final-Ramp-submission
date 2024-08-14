@@ -1,0 +1,19 @@
+Dear Ramp Team,
+
+I hope this email finds you well.
+
+I am writing to submit my solution for the frontend interview challenge. I have completed the following tasks as per the challenge requirements:
+
+1. Checkbox State Handling : Resolved issues with checkboxes managing state.
+2. Dropdown Scrolling : Fixed the scrolling behavior for dropdown components.
+3. Transaction Fetching : Implemented and fixed the fetching logic for paginated transactions.
+
+You can review the code and functionality at the following link: https://codesandbox.io/s/77jltq
+
+Please let me know if you have any questions or need further information.
+
+Thank you for the opportunity to work on this challenge. I look forward to your feedback.
+
+Best regards,
+Kumari Sonali Singh
++91 6204851271
